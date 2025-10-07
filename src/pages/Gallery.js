@@ -5,7 +5,7 @@ function Gallery() {
     {
       src: "/images/pnc2.jpg",
       alt: "PNC",
-      title: "Main Building",
+      title: "BCH",
     },
     {
       src: "/images/pnc1.jpg",
@@ -15,7 +15,7 @@ function Gallery() {
     {
       src: "/images/pnc3.jpg",
       alt: "Students",
-      title: "Academic Building",
+      title: "Main Building",
     },
   ];
 
