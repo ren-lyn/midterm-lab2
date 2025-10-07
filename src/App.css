@@ -1,0 +1,30 @@
+body {
+  background-color: #f1f8e9; /* light green background */
+}
+
+h1, h2 {
+  color: #2e7d32; /* dark green for headings */
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  color: #dcedc8 !important; /* pale green links */
+}
+
+.nav-link:hover {
+  color: #a5d6a7 !important; /* lighter green on hover */
+}
+
+.btn-primary {
+  background-color: #2e7d32;
+  border-color: #2e7d32;
+}
+
+.btn-primary:hover {
+  background-color: #388e3c;
+  border-color: #388e3c;
+}
