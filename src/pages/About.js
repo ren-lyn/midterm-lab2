@@ -2,18 +2,18 @@ import React from "react";
 
 function About() {
   return (
-    <section id="about" className="about-section py-5">
+    <section id="about" className="about-section py-3">
       <div className="container">
         <div className="row">
-          <div className="col-lg-10 mx-auto text-center mb-5">
+          <div className="col-lg-10 mx-auto text-center mb-3">
             <h2 className="display-5 fw-bold mb-4 text-success">Meet Our Team</h2>
             <p className="lead mb-4 text-muted">
               Meet the talented individuals behind this project - a dedicated group of developers passionate about creating exceptional digital experiences.
             </p>
-            <hr className="w-25 mx-auto mb-5" style={{height: '3px', backgroundColor: '#2e7d32'}} />
+            <hr className="w-25 mx-auto mb-3" style={{height: '3px', backgroundColor: '#2e7d32'}} />
           </div>
         </div>
-        <div className="row g-4 justify-content-center">
+        <div className="row g-3 justify-content-center">
           <div className="col-md-6 col-lg-4">
             <div className="card member-card h-100 border-0 shadow-sm">
               <div className="card-body text-center p-4">
